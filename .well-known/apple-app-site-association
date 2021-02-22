@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “HZ523YZCAD.com.livetag.LiveTagApp",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
