@@ -1,0 +1,21 @@
+{
+		"webcredentials": {
+				"apps": [
+						"HZ523YZCAD.com.kasey.TipMe"
+				]
+		},
+		"applinks": {
+				"apps": [],
+				"details": [
+						{
+								"appID": "HZ523YZCAD.com.livetag.LiveTagApp",
+								"paths": [],
+								"appIDs": [
+										"HZ523YZCAD.com.livetag.LiveTagApp"
+								],
+								"components": [
+								]
+						}
+				]
+		}
+}
